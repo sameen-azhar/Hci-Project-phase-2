@@ -20,6 +20,19 @@ The users who perform those tasks can be anyone like family members, guests, col
 
 1. 10 design alternatives.
 
+![1](https://user-images.githubusercontent.com/66685640/88214687-01ff4280-cc74-11ea-93e2-fcfc29080ee0.jpg)
+![2](https://user-images.githubusercontent.com/66685640/88214693-04619c80-cc74-11ea-8202-303b52f98135.jpg)
+![3](https://user-images.githubusercontent.com/66685640/88214703-07f52380-cc74-11ea-9fde-b0cda48f0a80.jpg)
+![4](https://user-images.githubusercontent.com/66685640/88214710-0a577d80-cc74-11ea-8b88-1731f290bda6.jpg)
+![5](https://user-images.githubusercontent.com/66685640/88214713-0cb9d780-cc74-11ea-8fca-96508aab0664.jpg)
+![6](https://user-images.githubusercontent.com/66685640/88214727-104d5e80-cc74-11ea-93ef-e0d70c691805.jpg)
+![7](https://user-images.githubusercontent.com/66685640/88214752-1ba08a00-cc74-11ea-8d69-c0a081af3bed.jpg)
+![8](https://user-images.githubusercontent.com/66685640/88214762-1f341100-cc74-11ea-85b1-0d220be96330.jpg)
+![9](https://user-images.githubusercontent.com/66685640/88214769-21966b00-cc74-11ea-8517-c5e614176b4d.jpg)
+![10](https://user-images.githubusercontent.com/66685640/88214778-24915b80-cc74-11ea-8b5b-555b92328d68.jpg)
+![11](https://user-images.githubusercontent.com/66685640/88214800-2e1ac380-cc74-11ea-9806-7527408c7080.jpg)
+
+
 
 
 
