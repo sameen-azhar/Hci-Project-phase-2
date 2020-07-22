@@ -229,6 +229,11 @@ Elsa is 10 year old girl. She is the little cook. she cooks nice, nutritious mea
 
 ### Storyboards
 
+![12](https://user-images.githubusercontent.com/66685640/88215375-fc562c80-cc74-11ea-9258-2c028c77c049.jpg)
+![13](https://user-images.githubusercontent.com/66685640/88215391-01b37700-cc75-11ea-9716-1a02b888db72.jpg)
+![14](https://user-images.githubusercontent.com/66685640/88215400-0546fe00-cc75-11ea-9acc-7185961a2cee.jpg)
+
+
 ### 2 Final Designs
 
 
