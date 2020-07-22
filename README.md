@@ -235,6 +235,9 @@ Elsa is 10 year old girl. She is the little cook. she cooks nice, nutritious mea
 
 
 ### 2 Final Designs
+![18](https://user-images.githubusercontent.com/66685640/88216159-2a883c00-cc76-11ea-8886-2ed8ec90370f.jpg)
+![19](https://user-images.githubusercontent.com/66685640/88216172-2d832c80-cc76-11ea-86f5-1b0d6a9ec554.jpg)
+
 
 
 
@@ -243,6 +246,11 @@ Elsa is 10 year old girl. She is the little cook. she cooks nice, nutritious mea
 ![15](https://user-images.githubusercontent.com/66685640/88215692-7d152880-cc75-11ea-8020-42439e40df6d.jpg)
 ![16](https://user-images.githubusercontent.com/66685640/88215707-82727300-cc75-11ea-92c7-ae71526b47b6.jpg)
 ![17](https://user-images.githubusercontent.com/66685640/88215715-8605fa00-cc75-11ea-80ee-1332aff4273d.jpg)
+![image](https://user-images.githubusercontent.com/66685640/88216240-4855a100-cc76-11ea-9a2c-6906b6b25d87.png)
+![image](https://user-images.githubusercontent.com/66685640/88216268-53103600-cc76-11ea-89b6-184e17d40957.png)
+![image](https://user-images.githubusercontent.com/66685640/88216286-599ead80-cc76-11ea-92de-40b69e93f09e.png)
+![image](https://user-images.githubusercontent.com/66685640/88216301-5f948e80-cc76-11ea-89a5-e87116b9a2ef.png)
+
 
 
 
