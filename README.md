@@ -2,15 +2,15 @@
 
 ## Task Finalization
 
-1. Sign up 
-2. Set the timer 
+1. Cooking the food   
+2. Setting the timer 
 
 ## Need Finding
 
-1. Sign up
-Before using a microwave oven app, user needs to log in to the application. To do this, click Log In in the Sign up screen. If you don’t have an account yet, click create account to create one. 
+1. Cooking the food   
+Before using a microwave oven app, user needs to log in to the application and select the no of stoves which are utilized 1 ,2,3 and so forth. Select cooking choice  that is boiling, cooking, grilling or baking. Then select the kind of nourishment pulse, meat, vegetables. 
 
-2. Set the timer
+2. Setting the timer
 In the microwave oven app, the user have to set the cooking time by squeezing the 10 min,1min and 10 sec catch. 
 
 ### Target Audience
@@ -18,26 +18,81 @@ The users who perform those tasks can be anyone like family members, guests, col
 
 ## Design Alternatives
 
-1. 10 design alternatives.
+1. 10 Design Alternatives
 
-![1](https://user-images.githubusercontent.com/66685640/88214687-01ff4280-cc74-11ea-93e2-fcfc29080ee0.jpg)
-![2](https://user-images.githubusercontent.com/66685640/88214693-04619c80-cc74-11ea-8202-303b52f98135.jpg)
-![3](https://user-images.githubusercontent.com/66685640/88214703-07f52380-cc74-11ea-9fde-b0cda48f0a80.jpg)
-![4](https://user-images.githubusercontent.com/66685640/88214710-0a577d80-cc74-11ea-8b88-1731f290bda6.jpg)
-![5](https://user-images.githubusercontent.com/66685640/88214713-0cb9d780-cc74-11ea-8fca-96508aab0664.jpg)
-![6](https://user-images.githubusercontent.com/66685640/88214727-104d5e80-cc74-11ea-93ef-e0d70c691805.jpg)
-![7](https://user-images.githubusercontent.com/66685640/88214752-1ba08a00-cc74-11ea-8d69-c0a081af3bed.jpg)
-![8](https://user-images.githubusercontent.com/66685640/88214762-1f341100-cc74-11ea-85b1-0d220be96330.jpg)
-![9](https://user-images.githubusercontent.com/66685640/88214769-21966b00-cc74-11ea-8517-c5e614176b4d.jpg)
-![10](https://user-images.githubusercontent.com/66685640/88214778-24915b80-cc74-11ea-8b5b-555b92328d68.jpg)
-![11](https://user-images.githubusercontent.com/66685640/88214800-2e1ac380-cc74-11ea-9806-7527408c7080.jpg)
+In creating design alternatives, I used three main sources to guide the direction of my creations. First, I looked at how other similar applications are designed, and then looked at what I currently had, and finally, what our users need in the microwave oven application. I had to keep in mind that the App is designed for my users therefore it should follow all these tasks.
 
+**Design Alternative 1**
 
+•	First, you may need to sign in or associate mind Bluetooth .
+•	Create your record mind some close to home data like name ,email and so on .
+•	Log in account
 
+**Design Alternative 2**
 
+•	Connect mind Bluetooth if wife isn't available. 
+•	Paring your gadget mind your versatile application. 
+•	Device associate mind Bluetooth .
+•	Press catch power on application. 
 
+**Design Alternative 3**
 
+Select level of broiler application 
 
+•	centigrade 
+•	Fahrenheit 
+
+Select no of stove are utilize 1, 2, 3 and so forth 
+
+**Design Alternative 4**
+Select kind of stove use 
+
+•	gas 
+•	power 
+
+**Design Alternative 5**
+
+Place the nourishment in the focal point of the turntable and close the entryway. Never switch the microwave on when it is vacant. In the event that you wish to warm a dish for a brief timeframe at greatest force (800W), basically press the +30 s button once for each 30seconds of cooking time. The stove begins right away. 
+
+**Design Alternative 6**
+
+ Select cooking choice 
+ 
+•	boiling 
+•	cooking 
+•	grilling
+•	backing
+
+Select kind of nourishment 
+
+•	pulse
+•	meat
+•	vegetable 
+
+**Design Alternative 7**
+
+Press the Power Level catch. The 800W (greatest cooking power) signs are shown: Select the suitable force level by squeezing the Power Level catch again until the relating wattage is shown.
+Force Levels You can pick among the force levels beneath.
+
+•	medium 
+•	low 
+•	high 
+
+**Design Alternative 8**
+
+Set the cooking time by squeezing the 10 min,1min and 10 sec catch Press the Start button. The stove light goes ahead and the turntable beginnings pivoting. Cooking begins and when it has completed the stove signals multiple times. 
+
+**Design Alternative 9**
+
+•	Oven application set notice to emergency .
+•	Halting the Cooking You can quit cooking whenever to check the food to stop incidentally; Open the entryway. 
+•	Resume cooking close the entryway and press Start again. 
+
+**Design Alternative 10**
+
+Press the Stop button to stop Completely Press the Stop button.
+
+ 
 ### Personas
 
 **Sana**
@@ -215,28 +270,30 @@ Its look like a good App you can cook things and in an easy way. And it can use 
 ##### Scenarios
 
 **Scenario 1**
+
 Maryam is a house wife. She cooks delicious dishes for her family. She wants to bake a cake for her family in a microwave oven. She has downloaded the application in her phone. She uses all the features to bake a cake. She sets alarm to get notify when the cake has been baked. She enjoys this application.
 
 **Scenario 2**
+
 Ayesha is a computer science student and keen to learn about modern technologies and techniques. She likes the microwave oven application very much. She loves how the food gets cooked really fast and saves her a lot of time. 
 
 **Scenario 3**
+
 Hiba is a nutritionist and knows how important the vegetables are for her health. She uses microwave oven application to cook vegetables. The short cooking time helps preserve heat-sensitive vitamins (like vitamins C and B9). The internal temperature also goes no higher than boiling which helps preserve the flavor of the vegetable.
 
 **Scenario 4**
+
 Elsa is 10 year old girl. She is the little cook. she cooks nice, nutritious meals for the poor kids in town. She does not know how to set timer in microwave oven application. She faces some problem in understanding all the functionalities of the microwave oven while cooking food. However, she needs to know the complete guide of the usage of this app.
 
 
 ### Storyboards
 
-![12](https://user-images.githubusercontent.com/66685640/88215375-fc562c80-cc74-11ea-9258-2c028c77c049.jpg)
-![13](https://user-images.githubusercontent.com/66685640/88215391-01b37700-cc75-11ea-9716-1a02b888db72.jpg)
-![14](https://user-images.githubusercontent.com/66685640/88215400-0546fe00-cc75-11ea-9acc-7185961a2cee.jpg)
+
+
 
 
 ### 2 Final Designs
-![18](https://user-images.githubusercontent.com/66685640/88216159-2a883c00-cc76-11ea-8886-2ed8ec90370f.jpg)
-![19](https://user-images.githubusercontent.com/66685640/88216172-2d832c80-cc76-11ea-86f5-1b0d6a9ec554.jpg)
+
 
 
 
