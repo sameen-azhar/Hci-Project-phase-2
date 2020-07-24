@@ -7,10 +7,10 @@
 
 ## Need Finding
 
-1. Cooking the food   
+**1. Cooking the food**   
 Before using a microwave oven app, user needs to log in to the application and select the no of stoves which are utilized 1 ,2,3 and so forth. Select cooking choice  that is boiling, cooking, grilling or baking. Then select the kind of nourishment pulse, meat, vegetables. 
 
-2. Setting the timer
+**2. Setting the timer**
 In the microwave oven app, the user have to set the cooking time by squeezing the 10 min,1min and 10 sec catch. 
 
 ### Target Audience
@@ -18,7 +18,7 @@ The users who perform those tasks can be anyone like family members, guests, col
 
 ## Design Alternatives
 
-1. 10 Design Alternatives
+ ### 10 Design Alternatives
 
 In creating design alternatives, I used three main sources to guide the direction of my creations. First, I looked at how other similar applications are designed, and then looked at what I currently had, and finally, what our users need in the microwave oven application. I had to keep in mind that the App is designed for my users therefore it should follow all these tasks.
 
@@ -267,7 +267,7 @@ After getting knowledge of our App she finds it easy and now use it on daily bas
 Its look like a good App you can cook things and in an easy way. And it can use on all devices which is the plus point of this App.
 
 
-##### Scenarios
+## Scenarios
 
 **Scenario 1**
 
@@ -288,25 +288,82 @@ Elsa is 10 year old girl. She is the little cook. she cooks nice, nutritious mea
 
 ### Storyboards
 
+![1](https://user-images.githubusercontent.com/66685640/88421885-c181ff00-ce02-11ea-9c47-cbd6bdc7f97c.jpg)
+![2](https://user-images.githubusercontent.com/66685640/88421900-c646b300-ce02-11ea-893f-6128d6e3d76d.jpg)
 
 
 
+## 2 Finalized Designs
 
-### 2 Final Designs
+**Design 1**
+
+![3](https://user-images.githubusercontent.com/66685640/88421924-d1014800-ce02-11ea-9108-e53fb9bab381.jpg)
+![4](https://user-images.githubusercontent.com/66685640/88421934-d78fbf80-ce02-11ea-9596-d69ce472ac1f.jpg)
+![5](https://user-images.githubusercontent.com/66685640/88421952-df4f6400-ce02-11ea-952d-5891bcb2992c.jpg)
+![6](https://user-images.githubusercontent.com/66685640/88421964-e4141800-ce02-11ea-9a54-8c533552fb9e.jpg)
+![7](https://user-images.githubusercontent.com/66685640/88421975-e7a79f00-ce02-11ea-8672-623e65b0381c.jpg)
+![8](https://user-images.githubusercontent.com/66685640/88421982-eb3b2600-ce02-11ea-9d8c-49c7fc444883.jpg)
 
 
+**Design 2**
+
+![9](https://user-images.githubusercontent.com/66685640/88421997-f0987080-ce02-11ea-88d8-7bde6671eb10.jpg)
+![10](https://user-images.githubusercontent.com/66685640/88422016-f8581500-ce02-11ea-9f09-b6eeb9d859c1.jpg)
+![11](https://user-images.githubusercontent.com/66685640/88422031-fee68c80-ce02-11ea-812b-6f1ab110101c.jpg)
+![12](https://user-images.githubusercontent.com/66685640/88422039-03ab4080-ce03-11ea-998b-df20d233c110.jpg)
+![13](https://user-images.githubusercontent.com/66685640/88422054-073ec780-ce03-11ea-9b52-18daa969a50e.jpg)
+![14](https://user-images.githubusercontent.com/66685640/88422062-0c037b80-ce03-11ea-935d-f73723788ea8.jpg)
+![15](https://user-images.githubusercontent.com/66685640/88422075-102f9900-ce03-11ea-842d-95b0f69beeb8.jpg)
 
 
 
 ## Prototyping
 
-![15](https://user-images.githubusercontent.com/66685640/88215692-7d152880-cc75-11ea-8020-42439e40df6d.jpg)
-![16](https://user-images.githubusercontent.com/66685640/88215707-82727300-cc75-11ea-92c7-ae71526b47b6.jpg)
-![17](https://user-images.githubusercontent.com/66685640/88215715-8605fa00-cc75-11ea-80ee-1332aff4273d.jpg)
-![image](https://user-images.githubusercontent.com/66685640/88216240-4855a100-cc76-11ea-9a2c-6906b6b25d87.png)
-![image](https://user-images.githubusercontent.com/66685640/88216268-53103600-cc76-11ea-89b6-184e17d40957.png)
-![image](https://user-images.githubusercontent.com/66685640/88216286-599ead80-cc76-11ea-92de-40b69e93f09e.png)
-![image](https://user-images.githubusercontent.com/66685640/88216301-5f948e80-cc76-11ea-89a5-e87116b9a2ef.png)
+### Prototype of Design 1
+
+![image](https://user-images.githubusercontent.com/66685640/88424456-06a83000-ce07-11ea-90a3-10887bee2e72.png)
+![image](https://user-images.githubusercontent.com/66685640/88424492-10ca2e80-ce07-11ea-9d3d-592ca593cf6e.png)
+![image](https://user-images.githubusercontent.com/66685640/88424539-20497780-ce07-11ea-8e25-52d4d3d4577c.png)
+![image](https://user-images.githubusercontent.com/66685640/88424554-250e2b80-ce07-11ea-8db9-ac60511b23d4.png)
+![image](https://user-images.githubusercontent.com/66685640/88424584-37886500-ce07-11ea-9723-916c4098f982.png)
+![image](https://user-images.githubusercontent.com/66685640/88424603-3e16dc80-ce07-11ea-8467-6ef2ae53839a.png)
+![image](https://user-images.githubusercontent.com/66685640/88424625-4bcc6200-ce07-11ea-97ff-3dfa5e525995.png)
+![image](https://user-images.githubusercontent.com/66685640/88424637-52f37000-ce07-11ea-9661-01d7fed2b37b.png)
+![image](https://user-images.githubusercontent.com/66685640/88424652-5c7cd800-ce07-11ea-89ed-c810e86dcc0b.png)
+![image](https://user-images.githubusercontent.com/66685640/88424669-643c7c80-ce07-11ea-98dd-d0529326f409.png)
+![image](https://user-images.githubusercontent.com/66685640/88424683-6b638a80-ce07-11ea-9c90-dac4ea80850a.png)
+![image](https://user-images.githubusercontent.com/66685640/88424707-761e1f80-ce07-11ea-9ba8-8ee924217eaf.png)
+![image](https://user-images.githubusercontent.com/66685640/88424718-7b7b6a00-ce07-11ea-8427-d7456dd6ff8e.png)
+![image](https://user-images.githubusercontent.com/66685640/88424729-8209e180-ce07-11ea-9dc5-8f40c41e8de6.png)
+![image](https://user-images.githubusercontent.com/66685640/88424741-86ce9580-ce07-11ea-97ad-96fbd3ec1fca.png)
+![image](https://user-images.githubusercontent.com/66685640/88424754-8f26d080-ce07-11ea-9dad-ebe68c214b5b.png)
+![image](https://user-images.githubusercontent.com/66685640/88424790-9cdc5600-ce07-11ea-8b4a-853599acdbda.png)
+![image](https://user-images.githubusercontent.com/66685640/88424839-b4b3da00-ce07-11ea-8799-d84c6f63b95e.png)
+![image](https://user-images.githubusercontent.com/66685640/88424849-bd0c1500-ce07-11ea-9d2f-eb7cad701477.png)
+![image](https://user-images.githubusercontent.com/66685640/88424863-c5645000-ce07-11ea-819f-1054cd48c5f9.png)
+![image](https://user-images.githubusercontent.com/66685640/88424876-ca290400-ce07-11ea-9533-d8dc928f67a9.png)
+
+
+
+
+## Prototype of Design 2
+
+![image](https://user-images.githubusercontent.com/66685640/88425096-3dcb1100-ce08-11ea-9818-8e53985ee4f2.png)
+![image](https://user-images.githubusercontent.com/66685640/88425108-46bbe280-ce08-11ea-9034-d9ee77eb41dd.png)
+![image](https://user-images.githubusercontent.com/66685640/88425122-4facb400-ce08-11ea-979f-7c3dbe34f0df.png)
+![image](https://user-images.githubusercontent.com/66685640/88425143-56d3c200-ce08-11ea-90f5-3b9336c121b4.png)
+![image](https://user-images.githubusercontent.com/66685640/88425153-5c310c80-ce08-11ea-9ff8-ecd2e7d9ebec.png)
+![image](https://user-images.githubusercontent.com/66685640/88425393-bd58e000-ce08-11ea-86d6-f81875c2c01a.png)
+![image](https://user-images.githubusercontent.com/66685640/88425402-c3e75780-ce08-11ea-8120-e7b9c79b1967.png)
+![image](https://user-images.githubusercontent.com/66685640/88425417-c944a200-ce08-11ea-859d-a70a529c136f.png)
+![image](https://user-images.githubusercontent.com/66685640/88425434-cd70bf80-ce08-11ea-9523-d2be63f9a9c3.png)
+![image](https://user-images.githubusercontent.com/66685640/88425440-d366a080-ce08-11ea-89f0-20bb8990522a.png)
+![image](https://user-images.githubusercontent.com/66685640/88425471-de213580-ce08-11ea-94d8-b6385c5d9562.png)
+![image](https://user-images.githubusercontent.com/66685640/88425494-e5484380-ce08-11ea-9464-ef19f17bd3c6.png)
+![image](https://user-images.githubusercontent.com/66685640/88425506-eb3e2480-ce08-11ea-963b-251db12dde53.png)
+![image](https://user-images.githubusercontent.com/66685640/88425519-f2fdc900-ce08-11ea-9b2a-e10ad1281624.png)
+![image](https://user-images.githubusercontent.com/66685640/88425536-f85b1380-ce08-11ea-9f37-2e51f74b7254.png)
+![image](https://user-images.githubusercontent.com/66685640/88425553-ff822180-ce08-11ea-8ab9-1aa7cd5cf5ae.png)
 
 
 
